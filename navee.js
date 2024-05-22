@@ -1,1 +1,1 @@
-"Day.3Task"
+console.log("Day.3Task")
